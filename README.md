@@ -1,5 +1,5 @@
 ﻿# SHPE and ColorStack Stevens Chapter — Websites
-Source code for the official chapter websites of **SHPE Stevens** and **ColorStack Stevens** — The two most important organizations for Latino and Black engineers in computer science and engineering in the USA.
+Source code for the official chapter websites of **SHPE Stevens** and **ColorStack Stevens**, The two most important organizations for Latino and Black engineers in computer science and engineering in the USA.
 ---
 
 ## SHPE Stevens Chapter Website
